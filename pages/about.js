@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>My Blog</title>
+        <title>About</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <h1>My Blog</h1>
+        <h1>About</h1>
       </main>
     </div>
   );
